@@ -1,2 +1,2 @@
-# martinez-vetconnect
+# martinez-vetconnect-app
 ## Autor: Alejandro Martínez
