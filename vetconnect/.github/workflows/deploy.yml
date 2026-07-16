@@ -1,4 +1,4 @@
-name: Deploy React to VPS
+name: Deploy Martinez Vetconnect to VPS
 
 on:
   push:
